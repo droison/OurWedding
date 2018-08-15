@@ -1,0 +1,6 @@
+{
+    "navigationBarTitleText": "好友祝福",
+    "usingComponents": {
+      "WxComment": "/WxComment/component/WxComment/WxComment"
+    }
+}

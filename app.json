@@ -1,0 +1,50 @@
+{
+  "pages":[
+    "pages/index/index",
+    "pages/invitation/index",
+    "pages/map/index",
+    "pages/chat/index"
+  ],
+  "window":{
+    "backgroundTextStyle":"light",
+    "navigationBarBackgroundColor": "#fff",
+    "navigationBarTitleText": "柴淞💗邹韵 Married",
+    "navigationBarTextStyle":"black",
+    "enablePullDownRefresh":false
+  },
+  "tabBar": {
+    "color": "#ccc",
+    "selectedColor": "#ff4c91",
+    "borderStyle": "white",
+    "backgroundColor": "#ffffff",
+    "list": [
+      {
+        "pagePath": "pages/index/index",
+        "iconPath": "images/1.png",
+        "selectedIconPath": "images/1.png",
+        "text": "照片"
+      },
+      {
+        "pagePath": "pages/invitation/index",
+        "iconPath": "images/2.png",
+        "selectedIconPath": "images/2.png",
+        "text": "邀请函"
+      },
+      {
+        "pagePath": "pages/map/index",
+        "iconPath": "images/3.png",
+        "selectedIconPath": "images/3.png",
+        "text": "地图"
+      },
+      {
+        "pagePath": "pages/chat/index",
+        "iconPath": "images/4.png",
+        "selectedIconPath": "images/4.png",
+        "text": "好友祝福"
+      }
+    ]
+  }
+}
+
+ 
+  

@@ -1,0 +1,13 @@
+/* pages/bless/index.wxss */
+
+.container {
+  width: 750rpx;
+  height: 100vh;
+}
+
+/* pages/map/index.wxss */
+
+.map {
+  width: 750rpx;
+  height: 100vh;
+}
